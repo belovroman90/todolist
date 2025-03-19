@@ -2,7 +2,7 @@
 
 ## About
 
-A learning project ToDo List created to showcase frontend development skills. The project includes server interaction, state management, routing, and error handling.
+A learning project ToDo List created to showcase frontend development skills. The project built with TypeScript, which enhances code reliability and maintainability. ToDo List includes server interaction, state management, routing, and error handling.
 
 ## Technologies
 
